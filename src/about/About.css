@@ -1,0 +1,23 @@
+.about-container{
+    display: flex;
+    background-color: #fff;
+    color: #000;
+    height: 700vh;
+    padding: 100px 0 100px 0;
+}
+.about-desc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 55%;
+    padding: 0 100px 0 100px;
+}
+
+.about > h3{
+    line-height: 30px;
+    font-size: 28px;
+}
+
+.about-desc > p{
+    line-height: 1.5;
+}
